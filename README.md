@@ -12,6 +12,15 @@ Traveller is a state tourism website that offers comprehensive travel services, 
 
 ![Screenshot 2023-07-15 171844](https://github.com/Satyam-G5/project-traveller.com/assets/126576749/1154cb02-696b-435c-b543-7b3455e9c1ba)
 
+## Características
+
+- Navegue e selecione pacotes turísticos estaduais
+- Veja informações detalhadas sobre cada estado, incluindo destinos e atividades turísticas populares
+- Reserve guias para experiências de viagem personalizadas
+- Pesquise e reserve hotéis em vários locais
+- Sistema de pagamento Razorpay integrado para transações online seguras e convenientes
+- Hashing de senha com token JWT: As senhas dos usuários são criptografadas com segurança usando a tecnologia JWT (JSON Web Token), garantindo que informações confidenciais sejam protegidas.
+
 
 ## Features
 
